@@ -9,7 +9,7 @@ This repository contains the PyTorch and Flask implementation of the paper:
 
 - **Display for Chinese:**
 
-  ![image](https://github.com/QingpengWen/GalanzRecommendDual-MDR/blob/main/demo/show_zh.gif)
+  ![image](https://github.com/QingpengWen/GalanzRecommendDual-MDR/blob/main/show_zh.gif)
 
 - **Display for English:**
 
