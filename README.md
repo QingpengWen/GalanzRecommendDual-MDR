@@ -13,7 +13,7 @@ This repository contains the PyTorch and Flask implementation of the paper:
 
 - **Display for English:**
 
-  <iframe src="show_en.mp4">
+  <img src="demo/show_en.gif">
 
 ## Architecture
 
