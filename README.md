@@ -9,15 +9,15 @@ This repository contains the PyTorch and Flask implementation of the paper:
 
 - **Display for Chinese:**
 
-  <iframe height=498 width=530 src="show_zh.mp4">
+  <iframe height=498 width=530 src="demo/show_zh.mp4">
 
 - **Display for English:**
 
-  <iframe height=498 width=510 src="show_en.mp4">
+  <iframe height=498 width=510 src="demo/show_en.mp4">
 
 ## Architecture
 
-<img src="Dual-MDR.png">
+<img src="figure/Dual-MDR.png">
 
 ## Requirements
 
