@@ -9,7 +9,7 @@ This repository contains the PyTorch and Flask implementation of the paper:
 
 - **Display for Chinese:**
 
-  <iframe src="show_zh.mp4">
+  <img src="show_zh.gif">
 
 - **Display for English:**
 
