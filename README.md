@@ -13,7 +13,7 @@ This repository contains the PyTorch and Flask implementation of the paper:
 
 - **Display for English:**
 
-  ![image](https://github.com/QingpengWen/GalanzRecommendDual-MDR/blob/96424fd231a7a9790ff95a121042babcefedef37/show_en.gif)
+  ![image](https://github.com/QingpengWen/GalanzRecommendDual-MDR/blob/main/demo/show_en.gif)
 
 ## Architecture
 
